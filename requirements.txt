@@ -1,0 +1,9 @@
+gymnasium[toy_text]==0.29.1
+numpy==1.26.4
+matplotlib==3.9.2
+pandas==2.2.2
+pygame==2.6.1
+tqdm==4.66.5
+seaborn==0.13.2
+scipy==1.14.1
+joblib==1.4.2
